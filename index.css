@@ -12,16 +12,19 @@ p {
 }
 
 img {
-  height: 500px;
+  min-height: 500px;
+  max-width: 500px;
+  width: 80%;
 }
 input {
-  width: 25px;
+  max-width: 25px;
+  min-width: 15px;
+  width: 5%;
   text-align: center;
 }
 label {
   position: relative;
   top: 130px;
-  margin: 0 10px;
 }
 button {
   position: relative;
