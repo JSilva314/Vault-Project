@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+
+}
+input {
+    width: 25px;
+    text-align: center;
+    position: relative;
+    top: 130px;
+
+}
+button {
+    position: relative;
+    top: -160px;
+
+}
