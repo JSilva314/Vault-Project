@@ -1,23 +1,29 @@
 body {
-    text-align: center;
+  text-align: center;
+  background-color: rgb(144, 145, 146);
+  font-family: sans-serif;
+  font-style: oblique;
+}
+h1 {
+  color: rgb(152, 70, 160);
+}
+p {
+  color: rgb(241, 241, 129);
 }
 
 img {
-    height: 500px;
-
+  height: 500px;
 }
 input {
-    width: 25px;
-    text-align: center;
+  width: 25px;
+  text-align: center;
 }
 label {
-    position: relative;
-    top: 130px;
-    margin: 0 10px;
-
+  position: relative;
+  top: 130px;
+  margin: 0 10px;
 }
 button {
-    position: relative;
-    top: -160px;
-
+  position: relative;
+  top: -160px;
 }

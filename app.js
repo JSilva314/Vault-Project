@@ -44,4 +44,5 @@ openBtn.addEventListener("click", () => {
     response.textContent = "Sorry, try again.";
     response.style.color = "Red";
   }
+  document.querySelectorAll("input").forEach((ele) => (ele.value = ""));
 });
